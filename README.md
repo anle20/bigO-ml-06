@@ -2,6 +2,12 @@
 
 This is your student repository template for the course.
 
+## Course Materials
+
+| Lecture | Example Notebook | Homework | Solution |
+| --- | --- | --- | --- |
+| Lecture 01: Data Preparation | [Lecture01.ipynb](Lecture01-Data-Preparation/Lecture01.ipynb) | [lecture01_hw.ipynb](Lecture01-Data-Preparation/homework/lecture01_hw.ipynb) | To be released |
+
 ## Setup
 
 ```bash
@@ -23,21 +29,11 @@ Each week, pull newly released lecture materials:
 git pull upstream main
 ```
 
-## Lecture 01
+## Submission Guideline
 
-Example notebook:
+For each lecture, commit your completed homework and create a lecture-specific submission tag.
 
-```text
-Lecture01-Data-Preparation/Lecture01.ipynb
-```
-
-Homework:
-
-```text
-Lecture01-Data-Preparation/homework/lecture01_hw.ipynb
-```
-
-## Submit Lecture 01
+Example for Lecture 01:
 
 ```bash
 git add .
@@ -46,3 +42,5 @@ git tag submit-lecture01
 git push origin main
 git push origin submit-lecture01
 ```
+
+For later lectures, replace `01` with the lecture number, for example `submit-lecture02`.
