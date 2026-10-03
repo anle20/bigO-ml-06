@@ -1,0 +1,16 @@
+[project]
+name = "bigoai"
+version = "0.1.0"
+description = "BigO AI: Introduction to Machine Learning"
+requires-python = ">=3.9,<3.10"
+dependencies = [
+    "cvxpy",
+    "ipykernel",
+    "matplotlib",
+    "mlxtend",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "seaborn",
+    "torch",
+]
