@@ -66,6 +66,14 @@ Each week, pull newly released lecture materials:
 git pull upstream main
 ```
 
+If this is your first time pulling from `upstream` and Git says the histories are unrelated, run:
+
+```bash
+git pull upstream main --allow-unrelated-histories
+```
+
+After that first successful merge, use the normal `git pull upstream main` command for later updates.
+
 ## Submission Guideline
 
 For each lecture, commit your completed homework and create a lecture-specific submission tag.
