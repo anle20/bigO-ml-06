@@ -52,6 +52,7 @@ git remote add upstream https://github.com/bigocoding-ai/intro-to-ml-template-06
 | Lecture 01: Data Preparation | [Lecture01.ipynb](Lecture01-Data-Preparation/Lecture01.ipynb) | [lecture01_hw.ipynb](Lecture01-Data-Preparation/homework/lecture01_hw.ipynb) | [lecture01_sol.ipynb](Lecture01-Data-Preparation/homework/lecture01_sol.ipynb) |
 | Lecture 02: KNN | [Lecture02.ipynb](Lecture02-KNN/Lecture02.ipynb) | [Lecture02_hw.ipynb](Lecture02-KNN/homework/Lecture02_hw.ipynb) | [Lecture02_sol.ipynb](Lecture02-KNN/homework/Lecture02_sol.ipynb) |
 | Lecture 03: Model Selection | [Lecture03.ipynb](Lecture03-Model-Selection/Lecture03.ipynb) | [Lecture03_hw.ipynb](Lecture03-Model-Selection/homework/Lecture03_hw.ipynb) | [Lecture03_sol.ipynb](Lecture03-Model-Selection/homework/Lecture03_sol.ipynb) |
+| Lecture 04: Linear Regression | [Lecture04.ipynb](Lecture04-Linear-Regression/Lecture04.ipynb) | [Lecture04_hw.ipynb](Lecture04-Linear-Regression/homework/Lecture04_hw.ipynb) | To be released |
 
 ## Setup
 
