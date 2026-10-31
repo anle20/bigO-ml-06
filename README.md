@@ -53,6 +53,7 @@ git remote add upstream https://github.com/bigocoding-ai/intro-to-ml-template-06
 | Lecture 02: KNN | [Lecture02.ipynb](Lecture02-KNN/Lecture02.ipynb) | [Lecture02_hw.ipynb](Lecture02-KNN/homework/Lecture02_hw.ipynb) | [Lecture02_sol.ipynb](Lecture02-KNN/homework/Lecture02_sol.ipynb) |
 | Lecture 03: Model Selection | [Lecture03.ipynb](Lecture03-Model-Selection/Lecture03.ipynb) | [Lecture03_hw.ipynb](Lecture03-Model-Selection/homework/Lecture03_hw.ipynb) | [Lecture03_sol.ipynb](Lecture03-Model-Selection/homework/Lecture03_sol.ipynb) |
 | Lecture 04: Linear Regression | [Lecture04.ipynb](Lecture04-Linear-Regression/Lecture04.ipynb) | [Lecture04_hw.ipynb](Lecture04-Linear-Regression/homework/Lecture04_hw.ipynb) | [Lecture04_sol.ipynb](Lecture04-Linear-Regression/homework/Lecture04_sol.ipynb) |
+| Lecture 05: Gradient Descent | [Lecture05.ipynb](Lecture05-Gradient-Descent/Lecture05.ipynb) | [Lecture05_hw.ipynb](Lecture05-Gradient-Descent/homework/Lecture05_hw.ipynb) | To be released |
 
 ## Setup
 

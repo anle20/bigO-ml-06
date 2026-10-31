@@ -8,9 +8,12 @@ dependencies = [
     "ipykernel",
     "matplotlib",
     "mlxtend",
+    "nbformat",
     "numpy",
     "pandas",
+    "plotly",
     "scikit-learn",
     "seaborn",
     "torch",
+    "tqdm",
 ]
